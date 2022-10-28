@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](###screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -19,12 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+(./images/Screenshot.png)
 
 ## My process
 
@@ -54,8 +48,6 @@ This project helped me to learn how to center a container as well as mobile-firs
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ### Continued development
 
 Currently, I am a beginner in frontend web development. I started learning html and css just to develop additional skills. Now, that i have experienced desinging webpages and also knowing the fact that there is more to web designing than just html and css i started to have fun messing with webpages. I found myself consuming more and more content of web development over the internet and even though i understood nothing it was fun to watch and see people creating webpages out of nothing but just code. I am on a journey to learn frontend web development and then to become a full stack developer soon! 
@@ -73,5 +65,3 @@ Currently, I am a beginner in frontend web development. I started learning html 
 ## Acknowledgments
 
 -tsbsankara on youtube.
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
